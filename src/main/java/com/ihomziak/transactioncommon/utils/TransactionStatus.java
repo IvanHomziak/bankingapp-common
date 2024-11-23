@@ -1,4 +1,4 @@
-package com.ihomziak.transactioncommon;
+package com.ihomziak.transactioncommon.utils;
 
 public enum TransactionStatus {
     NEW("NEW"),

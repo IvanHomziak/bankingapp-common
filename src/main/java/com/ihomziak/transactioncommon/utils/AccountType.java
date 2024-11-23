@@ -1,4 +1,4 @@
-package com.ihomziak.transactioncommon;
+package com.ihomziak.transactioncommon.utils;
 
 public enum AccountType {
     CHECKING("Checking"), SAVINGS("Savings"), CREDIT("Credit");
