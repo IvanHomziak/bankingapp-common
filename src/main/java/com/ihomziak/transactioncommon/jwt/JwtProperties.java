@@ -1,6 +1,8 @@
 package com.ihomziak.transactioncommon.jwt;
 
+import lombok.Getter;
 
+@Getter
 public class JwtProperties {
 
     private final String secretKey;
@@ -9,13 +11,5 @@ public class JwtProperties {
     public JwtProperties(String secretKey, long validityInMilliseconds) {
         this.secretKey = secretKey;
         this.validityInMilliseconds = validityInMilliseconds;
-    }
-
-    public String getSecretKey() {
-        return secretKey;
-    }
-
-    public long getValidityInMilliseconds() {
-        return validityInMilliseconds;
     }
 }
