@@ -1,4 +1,4 @@
-package com.ihomziak.transactioncommon.jwt;
+package com.ihomziak.bankingapp.common.jwt;
 
 import lombok.Getter;
 

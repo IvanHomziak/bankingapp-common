@@ -1,13 +1,4 @@
-package com.ihomziak.transactioncommon.jwt;
-
-import io.jsonwebtoken.Claims;
-import io.jsonwebtoken.JwtException;
-import io.jsonwebtoken.Jwts;
-import io.jsonwebtoken.SignatureAlgorithm;
-import io.jsonwebtoken.security.Keys;
-
-import javax.crypto.SecretKey;
-import java.util.Date;
+package com.ihomziak.bankingapp.common.jwt;
 
 public class JwtTokenProvider {
 

@@ -1,4 +1,4 @@
-package com.ihomziak.transactioncommon.dto;
+package com.ihomziak.bankingapp.common.dto;
 
 import lombok.Getter;
 import lombok.Setter;

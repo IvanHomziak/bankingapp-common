@@ -1,4 +1,4 @@
-package com.ihomziak.transactioncommon.utils;
+package com.ihomziak.bankingapp.common.utils;
 
 public enum TransactionType {
     TRANSFER("TRANSFER"),

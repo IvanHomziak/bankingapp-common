@@ -1,4 +1,4 @@
-package com.ihomziak.transactioncommon.api;
+package com.ihomziak.bankingapp.common.api;
 
 import io.jsonwebtoken.*;
 import org.springframework.security.core.GrantedAuthority;
